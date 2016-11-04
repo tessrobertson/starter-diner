@@ -49,6 +49,7 @@ INSERT INTO `Categories` (`id`, `name`, `description`, `image`) VALUES
 -- Table structure for table `ci_sessions`
 --
 
+DROP TABLE IF EXISTS `ci_sessions`;
 CREATE TABLE `ci_sessions` (
   `id` varchar(128) NOT NULL,
   `ip_address` varchar(45) NOT NULL,
