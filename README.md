@@ -7,5 +7,7 @@ This starter builds on [CodeIgniter3.1-starter3](https://github.com/jedi-academy
 Configure your web server or virtual host so that your project's
 document root maps to the **public** folder inside your project.
 
-========================
-Completed all task for Job01 - Dillon
+============================================
+- Added the place holder message for Menu Maintenance page for both User & Admin roles. - Tess
+- Added the logic for the Crud controller
+- Completed all task for Job01 - Dillon
