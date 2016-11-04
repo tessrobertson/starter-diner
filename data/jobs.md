@@ -1,18 +1,18 @@
-Jim's Joint is an award-winning fast food restaurant in beautiful downtown Montague.
-We have full medical, dental, burial,  stressful and joyful benefits for 
-employees lasting more than three months.
+Career Opportunities
+--------------------
 
-Current openings:
+We are a fast-paced, plant-based fast food joint situated in the heart of 
+Downtown Vancouver. Ethics are important to us, so our employees enjoy full 
+benefits including medical, dental, and fitness stipends.
 
-- cook
-- bottlewasher
-- bouncer
-- assistant to the bouncer
-- sandwich artist
-- social media manager
+We have openings for the following positions:
+* Hostess
+* Line Cook
+* Sous Chef
+* Social Media Manager a.k.a Instragram photographer
+* Dish Recruit
 
-Please drop off a resume during opening hours, with muffins. We need muffins - they
-aren't on the menu. Preferably carrot muffins.
+We'd love to hear from you - drop off your resume during our opening hours and 
+ask for the manager. 
+_Alternatively, you can email us at careers@suncafe.ca_
 
-_Our award was for "most likely to be appreciated by zombies",
-but an award is an award._
