@@ -6,6 +6,8 @@ class Welcome extends Application {
 
 	public function index()
 	{
+                //$role = 'user';
+                //$this->session->set_userdata('userrole', $role);
 		$result = '';
 		$oddrow = true;
 		foreach ($this->categories->all() as $category)
