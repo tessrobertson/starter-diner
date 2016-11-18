@@ -91,6 +91,7 @@ $autoload['drivers'] = array();
   |	$autoload['helper'] = array('url', 'file');
  */
 $autoload['helper'] = array('url');
+$autoload['helper'] = array('form');
 
 /*
   | -------------------------------------------------------------------
@@ -133,7 +134,7 @@ $autoload['language'] = array();
   |
   |	$autoload['model'] = array('first_model' => 'first');
  */
-$autoload['model'] = array('menu', 'categories');
+$autoload['model'] = array('menu', 'categories', 'order');
 
 
 $autoload['helper'] = array('security');
